@@ -1,0 +1,310 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* header  */
+.navbar1 {
+    height: 30px;
+    width: 100%;
+    background: linear-gradient(374deg, rgb(243 199 149) 0%, rgb(243 199 149) 70%, rgb(219 167 79) 70%, rgb(219 167 79) 100%);
+    color: #3a3a3a;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.navleft {
+    height: 100%;
+    width: 17%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navbar2 {
+    background-color: rgb(243 199 149);
+    height: 75px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navlogo {
+    height: 100%;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.brand {
+    display: flex;
+    flex-direction: column;
+}
+
+.purpose {
+    height: 100%;
+    width: 38%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+/* hero-section  */
+.hero-section {
+    height: fit-content;
+        background: rgb(235, 232, 205);
+}
+
+.hero-section h1 {
+    width: 325px;
+    position: relative;
+    top: 92px;
+    left: 269px;
+}
+
+.hero-section p {
+    width: 339px;
+    font-size: 16px;
+    position: relative;
+    top: 103px;
+    left: 271px;
+}
+
+.hero-section .btn {
+    height: 31px;
+    width: 90px;
+    background-color: rgb(219, 167, 79);
+    border-radius: 15px;
+    position: relative;
+    top: -135px;
+    left: 383px;
+}
+
+#heroart {
+    position: relative;
+       top: -73px;
+    left: 610px;
+    height: 282px;
+}
+
+#rocket {
+    position: absolute;
+    top: 1px;
+    right: 1px;
+}
+
+/* about-section  */
+
+.about-section {
+    height: fit-content;
+    background-color: rgb(235, 232, 205);
+}
+
+#workingimg {
+    height: 40vh;
+    position: relative;
+    top: 100px;
+    left: 756px;
+}
+
+.about-section h3 {
+    width: fit-content;
+    position: relative;
+   bottom: 221px;
+    left: 55px;
+}
+
+.about-section h2 {
+        width: 443px;
+    position: relative;
+    bottom: 163px;
+    left: 55px;
+}
+
+#about {
+           width: 443px;
+    position: relative;
+    bottom: 147px;
+    left: 55px;
+}
+#callimg {
+    border-radius: 50%;
+    position: relative;
+    bottom: 122px;
+    left: 54px;
+}
+
+#call {
+    width: fit-content;
+    position: relative;
+    bottom: 172px;
+    left: 117px;
+}
+
+#num {
+    width: fit-content;
+    position: relative;
+       bottom: 169px;
+    left: 116px;
+}
+
+.about-section button {
+        height: 37px;
+    width: 99px;
+    background-color: rgb(219, 167, 79);
+    border-radius: 15%;
+    position: relative;
+    bottom: 148px;
+    left: 55px;
+}
+
+/* working-section  */
+
+.working-section {
+    background-color: rgb(235, 232, 205);
+        height: 500px;
+}
+
+#worktitle {
+    width: fit-content;
+    position: relative;
+    top: 1px;
+    left: 525px;
+}
+
+.working-process {
+    width: 100%;
+    display: flex;
+        margin-top: 42px;
+}
+
+.right {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+        justify-content: center;
+    align-items: center;
+
+}
+
+.left {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+        justify-content: center;
+    align-items: center;
+}
+ .work {
+    background-color: rgb(230, 189, 138);
+        height: 118px;
+    width: 310px;
+    border-radius: 10px;
+}
+
+.num {
+        height: 16px;
+    width: 16px;
+    background-color: rgb(211, 156, 61);
+    border-bottom-right-radius: 10px;
+}
+
+ .work p {
+   padding: 4px 5px;
+}
+
+ .work h3 {
+   padding: 2px 5px;
+}
+
+.fa-solid {
+    /* position: relative;
+    top: 75px;
+    right: 212px; */
+    font-size: 24px;
+}
+
+.icon {
+       height: 45px;
+    width: 45px;
+    background-color: rgb(230, 189, 138);
+    position: relative;
+    top: 75px;
+    right: 212px;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%
+}
+
+/* common style  */
+section {
+    position: relative;
+    /* overflow: hidden; */
+}
+
+.doodle {
+     position: absolute;
+     background-image: url(../images/doodles.png);
+    background-repeat: no-repeat;
+    opacity: 0.25;
+    pointer-events: none;
+}
+
+.d1 {
+    width: 236px;
+    height: 182px;
+       top: 30px;
+    left: 40px;
+    background-position: -272px -178px;
+    rotate: -16deg;
+}
+
+.d2 {
+       width: 165px;
+    height: 202px;
+    top: 142px;
+    left: 537px;
+    background-position: -569px -123px;
+    rotate: -16deg;
+}
+
+.d3 {
+         width: 117px;
+    height: 157px;
+    top: 114px;
+    left: 428px;
+    background-position: -403px -795px;
+    rotate: -16deg;
+}
+
+.d4 {
+         width: 113px;
+    height: 118px;
+    top: 295px;
+    left: 179px;
+    background-position: -227px -846px;
+}
+
+.d5 {
+        width: 153px;
+    height: 156px;
+    top: 4px;
+    left: 1055px;
+    background-position: -152px -399px;
+    rotate: -16deg;
+}
+
+.d6 {
+    width: 189px;
+    height: 159px;
+    top: 263px;
+    left: 392px;
+    background-position: -351px -447px;
+    rotate: -16deg;
+}

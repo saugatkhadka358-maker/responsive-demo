@@ -1,0 +1,42 @@
+/* hero-section  */
+    #heroart {
+        height: 146px;
+        left: 155px;
+        top: -98px;
+    }
+
+    .hero-section .btn {
+        top: -16px;
+        left: 90px;
+    }
+
+    /* about-section  */
+        #workingimg {
+        height: 165px;
+        left: 258px;
+        top: 50px;
+    }
+
+    /* working-section  */
+.working-section {
+    height: 575px;
+}
+
+        .icon {
+            top: 106px;
+        right: 103px;
+    }
+
+        .left {
+        align-items: center;
+        padding-right: 0px;
+    }
+
+    .right {
+        align-items: center;
+    }
+
+        .work {
+        height: 189px;
+        width: 150px;
+    }

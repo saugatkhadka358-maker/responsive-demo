@@ -1,0 +1,29 @@
+/* header  */
+.purpose {
+    width: 42%;
+}
+
+/* hero-section  */
+#heroart {
+    height: 165px;
+    top: -21px;
+    left: 557px;
+}
+
+.hero-section .btn {
+    top: -32px;
+}
+
+/* about-section  */
+#workingimg {
+    left: 630px;
+}
+
+/* working-section  */
+.d5 {
+    left: 785px;
+}
+
+#worktitle {
+    left: 374px;
+}

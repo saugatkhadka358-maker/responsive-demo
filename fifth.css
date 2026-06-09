@@ -1,0 +1,79 @@
+/* header  */
+.navbar1 {
+        font-size: 11px;
+        height: 25px;
+    }
+
+  .navlogo {
+        width: 27%;
+    }
+
+    .purpose {
+        width: 53%;
+    }
+
+/* hero-section  */
+
+    .hero-section h1 {
+        left: 29px;
+        font-size: 24px;
+        width: 178px;
+    }
+
+    .hero-section p {
+        left: 30px;
+        width: 115px;
+    }
+
+        #heroart {
+        left: 183px;
+        top: -98px;
+    }
+
+    .hero-section .btn {
+        left: 90px;
+    }
+
+/* about-section   */
+    .about-section {
+        height: 550px;
+    }
+
+.about-section h2 {
+        
+        width: 166px;
+    }
+
+    #about {
+    width: 195px;
+}
+
+    #workingimg {
+        left: 300px;
+        top: 90px;
+    }
+
+/* working-section  */
+    .d5 {
+        left: 450px;
+    }
+
+        .icon {
+        top: 83px;
+        right: 214px;
+    }
+
+    .right {
+    align-items: end;
+            
+}
+
+.work { 
+    height: 136px;
+        width: 200px;
+    }
+
+    .left { 
+  align-items: end;
+  padding-right: 45px;
+    }

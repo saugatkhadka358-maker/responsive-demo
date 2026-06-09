@@ -1,0 +1,69 @@
+/* header  */
+    .navbar1 {
+        font-size: 8px;
+        height: 21px;
+    }
+
+        .navbar2 {
+        font-size: 12px;
+    }
+
+        .navlogo {
+        width: 33%;
+    }
+
+    .purpose {
+        width: 57%;
+    }
+
+        #heroart {
+        height: 130px;
+        left: 136px;
+        top: -98px;
+    }
+
+    .hero-section .btn {
+        top: 5px;
+        left: 90px;
+    }
+
+/* about-section  */
+    #workingimg {
+        height: 145px;
+        left: 243px;
+        top: 50px;
+    }
+
+    .d3 {
+    left: 136px;
+}
+
+/* working-section */
+    #worktitle {
+        left: 114px;
+}
+
+.d5 {
+        left: 323px;
+    }
+
+ .d6 {
+    left: 290px;
+}   
+
+    .left {
+        align-items: end;
+        padding-right: 25px;
+    }
+
+        .work {
+        height: 155px;
+        width: 180px;
+    }
+
+        .icon {
+        height: 40px;
+        width: 40px;
+        top: 99px;
+        right: 179px;
+    }

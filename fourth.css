@@ -1,0 +1,80 @@
+/* header  */
+.navbar1 {
+    font-size: 14px;
+}
+
+.navbar2 {
+    font-size: 14px;
+}
+
+/* hero-section  */
+.hero-section {
+    height: 400px;
+}
+
+.hero-section h1 {
+    left: 76px;
+}
+
+.hero-section p {
+    left: 76px;
+}
+
+.hero-section .btn {
+    left: 195px;
+}
+
+#heroart {
+    left: 352px;
+}
+
+.d2 {
+    left: 317px;
+}
+
+.navlogo {
+    width: 23%;
+}
+
+    .purpose {
+        width: 46%;
+    }
+    
+
+/* about-section  */
+    #workingimg {
+        height: 175px;
+        left: 498px;
+        top: 90px;
+    }
+
+    .about-section h3 {
+    bottom: 171px;
+    left: 55px;
+}
+
+.about-section h2 {
+    margin-top: 30px;
+}
+
+.about-section {
+    height: 432px;
+}
+/* working-section      */
+    .d5 {
+        left: 595px;
+    }
+
+    #worktitle {
+        left: 267px;
+    }
+
+    .work {
+    height: 136px;
+    width: 246px;
+}
+
+.icon {
+    top: 83px;
+    right: 155px;
+}
